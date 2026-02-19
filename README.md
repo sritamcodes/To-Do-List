@@ -30,7 +30,7 @@ This project demonstrates core frontend development skills including DOM manipul
 
 <h3>🌐 Live Demo</h3>
 
-👉 https://your-username.github.io/repo-name/
+👉 https://sritamcodes.github.io/To-Do-List/
 
 <h3>📂 Project Structure</h3>
 todo-list-app
